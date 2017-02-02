@@ -5,7 +5,7 @@ Clone this repository
 ````    
 $ git clone https://github.com/keacore/01_code_from_teachings.git
 ````    
-and and run ```` dotnet restore ```` and ```` dotnet run ````     
+and run ```` dotnet restore ```` and ```` dotnet run ````     
 ```` C#
 $ dotnet restore
 
